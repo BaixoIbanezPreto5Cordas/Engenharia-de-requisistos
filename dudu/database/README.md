@@ -1,0 +1,7 @@
+- mkdir = criar pasta;
+- cd = entrar na pasta referida;
+- clear = limpar a tela de comandos passados;
+- ls = resumo da tela atual;
+- echo " #nome" >> README.md = criar readme em pasta;
+- setas do teclado (não é um comando, mas é útil) = retoma comandos passados já inseridos;
+- code = abre o vscode na pasta
